@@ -1,0 +1,19 @@
+No Auto- No option
+Simple Score- Line up with intended basket,
+	      Move forward appropriate distance
+	      dump block
+       OPTION:Park on ramp
+              
+IR Score- Position of first or last basket
+          sweep bridge
+          locate ir beacon
+          go to basket
+   OPTION:Park on ramp
+
+Defense- 
+Park Only- turn and go to end of ramp via table
+           turn and find the line
+           turn and follow the line
+           Go up ramp
+           Use Accel to determine location on ramp
+
